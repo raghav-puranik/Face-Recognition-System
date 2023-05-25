@@ -9,8 +9,8 @@ Step 3- Create another folder named image in the same folder and paste all the i
 Step 4-Run the .py file
 
 Output:
-/home/sanket/Pictures/Screenshot from 2022-10-14 19-02-23.png
+![Screenshot from 2022-10-14 19-02-23](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/4b539db1-08a0-488e-9c00-f184bf3b46d3)
 
-/home/sanket/Pictures/Screenshot from 2022-10-14 19-02-33.png
+![Screenshot from 2022-10-14 19-02-33](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/c817506c-9101-440b-8430-5ceea1b71e16)
 
-/home/sanket/Pictures/Screenshot from 2022-10-14 19-02-36.png
+![Screenshot from 2022-10-14 19-02-36](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/417594c2-6ea4-4ded-bf11-d22a1c1f767b)
