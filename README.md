@@ -9,8 +9,9 @@ Step 3- Create another folder named image in the same folder and paste all the i
 Step 4-Run the .py file
 
 Output:
-![Screenshot from 2022-10-14 19-02-23](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/4b539db1-08a0-488e-9c00-f184bf3b46d3)
 
-![Screenshot from 2022-10-14 19-02-33](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/c817506c-9101-440b-8430-5ceea1b71e16)
+![Screenshot from 2023-05-25 08-48-35](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/f594e08c-c778-4d6e-9633-3dbe7f6d6b56)
 
-![Screenshot from 2022-10-14 19-02-36](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/417594c2-6ea4-4ded-bf11-d22a1c1f767b)
+![Screenshot from 2023-05-25 08-48-45](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/67454f4d-d955-4bc5-ac6d-96f5db7c0913)
+
+![Screenshot from 2023-05-25 08-48-53](https://github.com/raghav-puranik/Face-Recognition-System/assets/82047643/89db87a6-75ce-4503-8300-4aa3129d74af)
